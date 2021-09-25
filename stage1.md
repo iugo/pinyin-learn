@@ -18,7 +18,7 @@ day 1
 
 - li 里 lǐ 里面
 - lan 蓝 lán 蓝色
-- lian 连 liān 连续
+- lian 练 liàn 练习
 
 day 2
 --------------------
